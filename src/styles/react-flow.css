@@ -1,0 +1,1 @@
+@import '@xyflow/react/dist/style.css'; /* importing the style.css from the xyflow package to avoid runtime error: `Refused to execute script from 'http://localhost:3000/_next/static/css/vendor.css' because its mime type ('text/css') is not executable, and strict mime type checking is enabled.` */
