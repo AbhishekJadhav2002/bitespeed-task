@@ -2,7 +2,7 @@
 
 A visual chatbot flow builder built with Next.js 15, React Flow, and Tailwind CSS.
 
-##### 🚀 [Live Demo](http://localhost:3000/)
+##### 🚀 [Live Demo](https://bitespeed-task.vercel.app/)
 
 ## Features
 
